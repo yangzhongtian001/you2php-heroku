@@ -1,4 +1,3 @@
 AuthName "Restricted Area"
 AuthType Basic
 AuthGroupFile /dev/null
-require valid-user
